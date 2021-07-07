@@ -17,3 +17,15 @@ ThreadTest.suo
 ThreadTest.sdf
 ipch/threadtest-96dfb43/threadtest-e6003c2.ipch
 ThreadTest.suo
+Debug/ThreadTest.exe
+Debug/ThreadTest.ilk
+Debug/ThreadTest.pdb
+ThreadTest/Debug/ThreadTest.exe.embed.manifest
+ThreadTest/Debug/ThreadTest.exe.embed.manifest.res
+ThreadTest/Debug/ThreadTest.exe.intermediate.manifest
+ThreadTest/Debug/ThreadTest.lastbuildstate
+ThreadTest/Debug/ThreadTest.log
+ThreadTest/Debug/ThreadTest.pch
+ThreadTest/Debug/ThreadTest_manifest.rc
+ThreadTest/Debug/vc100.idb
+ThreadTest/Debug/vc100.pdb
