@@ -129,7 +129,7 @@ sonuc : 6 thread per core ideal gibi
 int _tmain(int argc, _TCHAR* argv[])
 {
 
-	WaitSome(1000);
+	WaitSome(5000);
 
 	data = new int[datasize];
 	tdata = new int[datasize];
